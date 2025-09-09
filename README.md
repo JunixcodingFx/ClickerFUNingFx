@@ -5,6 +5,11 @@
 
 ---
 
+## 📸 Vorschau
+
+![Demo](Demo.png)
+
+
 ## ✨ Features
 - 🎨 Animierte Startseite mit Logo & Übergang
 - ⚡ Reaktionsspiel mit Zufallsstart

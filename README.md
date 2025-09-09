@@ -18,7 +18,7 @@
 
 ## 📦 GitHub Pages
 Du kannst das Spiel direkt hier spielen:  
-`https://deinGitHubName.github.io/ClickerFUNingFx/`
+`https://junixfx.de/demo/ClickerFUNingFx/`
 
 ---
 
@@ -32,7 +32,7 @@ Du kannst das Spiel direkt hier spielen:
 
 ## 🛠️ Installation (optional)
 ```bash
-git clone https://github.com/deinGitHubName/ClickerFUNingFx.git
+git clone https://github.com/JunixcodingFx/ClickerFUNingFx.git
 cd ClickerFUNingFx
 open index.html
 ```
